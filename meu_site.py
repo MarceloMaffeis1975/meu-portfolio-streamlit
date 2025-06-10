@@ -29,7 +29,7 @@ def pagina_inicio():
         # IMPORTANTE: Substitua a URL abaixo pela sua imagem de TI!
         # Pode ser um link ou um arquivo local, ex: st.image("imagens/ti.jpg")
         st.image(
-            "ti.jpg",
+            "TI.jpg",
             caption="A arquitetura da lógica digital."
         )
     with col2:
