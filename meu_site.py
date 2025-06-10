@@ -55,7 +55,7 @@ def pagina_inicio():
     with col4:
         # IMPORTANTE: Substitua pela sua imagem de Origami!
         st.image(
-            "origami.jpg",
+            "Origami.jpg",
             caption="A transformação do plano em forma."
         )
         
@@ -66,7 +66,7 @@ def pagina_inicio():
     with col5:
         # IMPORTANTE: Substitua pela sua imagem da Catedral!
         st.image(
-            "igreja.jpg",
+            "Igreja.jpg",
             caption="A estrutura que eleva a fé."
         )
     with col6:
